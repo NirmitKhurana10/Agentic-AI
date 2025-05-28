@@ -1,1 +1,4 @@
 /venv
+
+#smy secret keys
+.env 

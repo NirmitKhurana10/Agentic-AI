@@ -1,0 +1,20 @@
+
+pydantic - #For data validation and settings management using Python type hints
+            #(used to define models with strict types, often for config and structured data)
+
+python-dotenv - #Loads environment variables from a .env file into the system environment 
+                #(helps manage API keys and secrets without hardcoding them)
+
+langchain - #Main LangChain package for building applications with large language models provides chains, agents, tools, memory, etc.)
+
+langchain-openai - #Integration between LangChain and OpenAI's models (e.g., GPT-4) lets you use OpenAI with LangChain easily)
+
+langchain-groq - #Integration between LangChain and Groq's ultra-fast LLM inference engine
+                    #(lets you run LLMs through Groq's infrastructure via LangChain)
+
+langchain-core - #The lightweight, core components of LangChain (prompts, output parsers, etc.)
+                 #used internally by LangChain, can be installed separately for minimal setups)
+
+langchain-community - #Community-maintained integrations and tools for LangChain
+                        #(includes connectors to many APIs, databases, and models not in core)
+
