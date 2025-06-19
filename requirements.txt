@@ -22,4 +22,7 @@ arxiv
 pymupdf
 tweepy
 bs4
-
+langchain_huggingface
+faiss-cpu
+pypdf
+langchain_google_genai
