@@ -2,3 +2,5 @@
 
 #smy secret keys
 .env 
+
+*.pdf

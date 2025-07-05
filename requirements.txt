@@ -17,7 +17,7 @@ langchain-core - #The lightweight, core components of LangChain (prompts, output
 
 langchain-community - #Community-maintained integrations and tools for LangChain
                         #(includes connectors to many APIs, databases, and models not in core)
-
+dotenv
 arxiv 
 pymupdf
 tweepy
@@ -26,3 +26,4 @@ langchain_huggingface
 faiss-cpu
 pypdf
 langchain_google_genai
+langchain-pinecone
